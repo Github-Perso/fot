@@ -1,0 +1,22 @@
+.card_ttle
+{
+    text-align: center;
+    text-transform: uppercase;
+}
+.card_txt
+{
+    padding-left: 15%;
+}
+.my_btn
+{
+    width: 120px;
+
+}
+.main_div
+{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    font-family: bold;
+    text-transform: uppercase;
+}

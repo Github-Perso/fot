@@ -1,0 +1,64 @@
+.main_div
+{
+    padding-top: 5%;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+}
+.main_div_1
+{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.mar_man
+{
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.txt_mng
+{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    border-color: #9C28B1;
+    background-color: #F0E4F2;
+    color: black;
+    outline: none;
+}
+.my_btn
+{
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+    border-color: transparent;
+    background-color: #9C28B1;
+    outline: none;
+    color: white;
+    text-align: center;
+
+}
+.or
+{
+    text-align: center;
+    padding-top: 2%;
+}
+.my_btn1
+{
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+    border-color: #9C28B1;
+    background-color: white;
+    color: #9C28B1;
+    text-align: center;
+}
+.last_div
+{
+    text-align: center;
+    padding-top: 2%;
+
+}
